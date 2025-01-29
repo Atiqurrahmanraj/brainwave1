@@ -1,0 +1,1758 @@
+/* 
+  ##Device = Galxi fold screen resulation
+  ##Screen = B/w 279px to 319px
+*/
+@media (min-width: 279px) and (max-width: 319px){
+
+    /* header css start */
+
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 0px 0px;
+        margin: 0px 0px 0px 0px;
+        text-transform: capitalize;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .header .navbar .navbar-nav .nav-item .btn {
+        font-size: 11px;
+        font-weight: 600;
+        margin: 3px 0px 0px 0px;
+        padding: 6px 12px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    /* banner css */
+    .banner {
+        width: 100%;
+        padding: 5px 0px 0px;
+    }
+    .banner .banner-inner {
+        width: 100%;
+        padding: 12px 0px 0px;
+    }
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 25px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 300;
+        text-align: justify;
+        color: #161C2D;
+        margin: 8px 0px 10px;
+    }
+    .banner .banner-inner .btn {
+        /* display: inline-block; */
+        font-size: 11px;
+        font-weight: 600;
+        margin: 0px 0px 9px 0px;
+        padding: 7px 14px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link {
+        /* display: block; */
+        margin: 0px 0px 0px 0px;
+        font-size: 7px;
+        line-height: 1.7em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link .fa {
+        width: 11px;
+        height: 11px;
+        color: #161C2D;
+        font-size: 8px;
+        font-weight: 300;
+        margin: 0px 0px 20px 0px;
+        transition: 1s ease-in;
+    }
+    .banner .img-fluid {
+        max-width: 90%;
+        height: auto;
+        position: relative;
+        left: 10%;
+    }
+
+    .alert {
+        width: 100%;
+        padding: 20px 0px;
+        background: #161C2D;
+        text-align: center;
+        border-radius: 0px;
+    }
+    .alert .alert-inner p {
+        font-size: 11px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #fff;
+        margin: 0px;
+    }
+    .alert .alert-inner p .fa {
+        width: 15px;
+        height: 15px;
+        color: #fff;
+        font-size: 7px;
+        line-height: 14px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 6px 0px 0px;
+    }
+    .alert .alert-inner p .linking {
+        font-size: 11px;
+        font-weight: 400;
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    /* header css end */
+
+    /* expert css start */
+    .expert-section {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .expert-section .expert-inner {
+        width: 100%;
+        padding: 30px 0px 20px;
+    }
+    .expert-section .expert-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 900;
+        text-align: center;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner .btn {
+        display: inline-block;
+        font-size: 11px;
+        font-weight: 600;
+        margin: 0px 0px 10px 0px;
+        padding: 10px 15px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    .expert-section .img-fluid {
+        max-width: 90%;
+        height: auto;
+        position: relative;
+        left: 6%;
+    }
+    .expert-section .expert-right {
+        width: 100%;
+        margin: 20px 0px 0px;
+    }
+    .expert-section .expert-right h2 {
+        font-size: 22px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        padding: 5px 0px 0px 0px;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    /* expert css start */
+
+    /* services css start */
+    .services{
+        padding: 0px;
+    }
+    .services .services-inner {
+        width: 100%;
+        padding: 30px 0px 20px;
+    }
+    .services .services-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 5px 0px;
+    }
+    .services .services-inner p {
+        width: 100%;
+        display: inline-table;
+        text-align: center;
+        font-size: 11px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .services .card {
+        width: 100%;
+        background: transparent;
+        border: 0px;
+        padding: 0px 0px;
+    }
+    .services .card .card-title {
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 1.2em;
+        color: #161C2D;
+        margin: 0px 0px 18px 0px;
+    }
+    .services .card .card-body {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .services .card .card-body .card-text {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 12px 0px 5px;
+    }
+    .services .card .card-body .btn {
+        font-size: 11px;
+        font-weight: 800;
+        border: 0px;
+        background: transparent;
+        color: #473BF0;
+        padding: 0px 0px;
+        margin: 0px 0px 20px;
+    }
+    /* services css end */
+
+    /* reason css start */
+    .reason {
+        width: 100%;
+        padding: 50px 0px;
+        margin: 0px 0px;
+        position: absolute;
+        z-index: 0;
+    }
+    .reason .img-fluid {
+        max-width: 85%;
+        height: auto;
+    }
+    .reason .reason-innner {
+        width: 100%;
+        padding: 30px 0px 15px;
+    }
+    .reason .reason-innner h2 {
+        width: 100%;
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .reason .reason-innner p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 8px;
+    }
+
+    .reason .right-check{
+        padding: 0px;
+    }
+    .reason p {
+        font-size: 11px;
+        line-height: 1.2em;
+        font-weight: 800;
+        color: #161C2D;
+        margin: 0px 0px 9px;
+    }
+    /* reason css end */
+
+    /* video css start */
+    .video {
+        width: 100%;
+        padding: 60px 0px 0px;
+        background: url("../images/Video.png") center top no-repeat;
+        background-size: cover;
+        margin: 740px 0px 0px;
+        position: relative;
+        z-index: 1;
+    }
+    .video-inner {
+        width: 100%;
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .video-inner .icon-batton {
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        color: #473BF0;
+        background: #fff;
+        font-size: 11px;
+        line-height: 40px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px auto 25px;
+        transition: 1s ease-in;
+    }
+    .video-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #fff;
+        margin: 0px 0px 10px 0px;
+    }
+    .video-inner p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin: 0px auto 75px;
+    }
+    /* video css end */
+
+    /* testimonial css start */
+    .testimonial {
+        width: 100%;
+        padding: 0px 0px 30px;
+    }
+    .testimonial .testimonial-inner {
+        width: 100%;
+        padding: 40px 0px 20px;
+        text-align: center;
+    }
+    .testimonial .testimonial-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .testimonial .testimonial-inner p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px auto 20px;
+    }
+
+    .testimonial .testimonial-title {
+        width: 100%;
+        margin: 0px 0px 13px;
+        padding: 20px 0px 0px 20px;
+        border: 1px solid #eee;
+        border-radius: 10px;
+    }
+    .testimonial .testimonial-title .img-fluid {
+        width: 45px;
+        height: 45px;
+        margin: 0px 0px 30px;
+    }
+    .testimonial .testimonial-title p {
+        width: 100%;
+        height: 100px;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        margin: 0px;
+        color: #161C2D;
+    }
+    .testimonial .testimonial-title h6 {
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1.7em;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .testimonial .testimonial-title h6 span {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #161C2D;
+        margin: 0px 0px 0px 10px;
+    }
+    /* testimonial css end */
+
+    /* ready css start */
+    .ready {
+        width: 100%;
+        padding: 35px 0px 40px;
+        background: #68D585;
+        text-align: center;
+    }
+    .ready h2 {
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 1.2em;
+        margin: 0px 0px 15px;
+        color: #fff;
+    }
+    .ready .btn {
+        font-size: 10px;
+        font-weight: 600;
+        margin: 0px 0px 0px;
+        padding: 10px 15px;
+        color: #161C2D;
+        background: #fff;
+        border: 1px solid #fff;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    /* ready css end */
+
+    /* footer css start */
+    .footer {
+        width: 100%;
+        text-align: center;
+        padding: 20px 0px 30px;
+        background: #161C2D;
+    }
+    .footer .footer-inner {
+        width: 100%;
+        padding: 25px 0px 10px;
+    }
+    .footer .footer-inner .img-fluid{
+        max-width: 60%;
+        margin: 0px 0px 15px 0px;
+    }
+    .footer .footer-inner p {
+        width: 100%;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 0px 0px 20px 0px;
+    }
+    .footer .footer-inner .fa {
+        font-size: 17px;
+        color: #7D818D;
+        margin: 0px 22px 0px 0px;
+    }
+
+    .footer .footer-list {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .footer .footer-list h6 {
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 0px 0px 10px 0px;
+    }
+    .footer .footer-list ul li .listing {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+    }
+    .footer .footer-text p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 0px 0px 0px 0px;
+    }
+    /* footer css end */
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 319px to 480px
+*/
+
+@media (min-width: 319px) and (max-width: 480px){
+
+    /* header css start */
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 13px;
+        margin: 0px 0px 0px 0px;
+        padding: 7px 0px 0px;
+    }
+    .header .navbar .navbar-nav .nav-item .btn {
+        font-size: 13px;
+        font-weight: 600;
+        margin: 7px 0px 0px 0px;
+        padding: 7px 14px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    /* banner css */
+    .banner {
+        width: 100%;
+        padding: 10px 0px 0px;
+    }
+    .banner .banner-inner {
+        width: 100%;
+        padding: 3px 0px 0px;
+    }
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 26px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 1.7em;
+        font-weight: 300;
+        text-align: justify;
+        color: #161C2D;
+        margin: 8px 0px 12px;
+    }
+    .banner .banner-inner .btn {
+        display: inline-block;
+        font-size: 13px;
+        font-weight: 600;
+        margin: 0px 0px 10px 0px;
+        padding: 8px 15px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link {
+        display: block;
+        margin: 0px 0px 15px 0px;
+        font-size: 8px;
+        line-height: 1.7em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link .fa {
+        width: 10px;
+        height: 10px;
+        color: #161C2D;
+        font-size: 10px;
+        font-weight: 300;
+        margin: 0px 2px 0px 0px;
+        transition: 1s ease-in;
+    }
+    .banner .img-fluid {
+        max-width: 80%;
+        position: relative;
+        left: 10%;
+        height: auto;
+    }
+
+    .alert {
+        width: 100%;
+        margin: 0px;
+        padding: 22px 0px;
+        background: #161C2D;
+        text-align: center;
+        border-radius: 0px;
+    }
+    .alert .alert-inner p {
+        font-size: 13px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #fff;
+        margin: 0px;
+    }
+    .alert .alert-inner p .fa {
+        width: 17px;
+        height: 17px;
+        color: #fff;
+        font-size: 6px;
+        line-height: 17px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 8px 0px 0px;
+    }
+    .alert .alert-inner p .linking {
+        font-size: 13px;
+        font-weight: 400;
+        color: #fff;
+        text-decoration: underline;
+    }
+    /* header css end */
+
+    /* expert css start */
+    .expert-section {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .expert-section .expert-inner {
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .expert-section .expert-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner .btn {
+        display: inline-block;
+        font-size: 13px;
+        font-weight: 600;
+        margin: 0px 0px 0px 0px;
+        padding: 12px 23px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .expert-section .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto;
+        display: block;
+    }
+    .expert-section .expert-right {
+        width: 100%;
+        margin: 30px 0px 0px;
+    }
+    .expert-section .expert-right h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    /* expert css start */
+
+    /* services css start */
+    .services {
+        width: 100%;
+        padding: 0px 0px;
+        background: #F4F7FA;
+    }
+    .services .services-inner {
+        width: 100%;
+        text-align: center;
+        padding: 35px 0px 10px;
+    }
+    .services .services-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 12px 0px;
+    }
+    .services .services-inner p {
+        width: 100%;
+        display: inline-table;
+        text-align: center;
+        font-size: 13px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .services .card {
+        width: 100%;
+        background: transparent;
+        border: 0px;
+        padding: 0px 0px;
+        margin: 0px 0px 20px;
+    }
+    .services .card .card-title {
+        font-size: 16px;
+        font-weight: 800;
+        line-height: 1.2em;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .services .card .card-body {
+        width: 100%;
+        padding: 5px 0px;
+    }
+    .services .card .card-body .card-text {
+        width: 100%;
+        font-size: 13px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 5px 0px 7px;
+    }
+    .services .card .card-body .btn {
+        font-size: 13px;
+        font-weight: 800;
+        border: 0px;
+        background: transparent;
+        color: #473BF0;
+        padding: 0px 0px;
+    }
+    /* services css end */
+
+    /* reason css start */
+    .reason {
+        width: 100%;
+        padding: 50px 0px;
+        margin: 0px 0px;
+        position: absolute;
+        z-index: 0;
+    }
+    .reason .img-fluid {
+        max-width: 80%;
+        height: auto;
+    }
+
+    .reason .reason-innner h2 {
+        width: 100%;
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        text-align: center;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .reason .reason-innner p {
+        width: 100%;
+        font-size: 13px;
+        line-height: 1.6em;
+        font-weight: 400;
+        text-align: center;
+        color: #161C2D;
+        margin: 0px 0px 25px;
+    }
+    .reason p {
+        font-size: 11px;
+        line-height: 1.6em;
+        font-weight: 800;
+        color: #161C2D;
+        margin: 0px 0px 15px;
+    }
+    /* reason css end */
+
+    /* video css start */
+    .video {
+        width: 100%;
+        padding: 0px 0px 0px;
+        background: url("../images/Video.png") center top no-repeat;
+        background-size: auto;
+        margin: 755px 0px 0px;
+        position: relative;
+        z-index: 1;
+    }
+    .video-inner {
+        width: 100%;
+        padding: 190px 0px;
+        text-align: center;
+    }
+    .video-inner .icon-batton {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        color: #473BF0;
+        background: #fff;
+        font-size: 12px;
+        line-height: 60px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px auto 24px;
+        transition: 1s ease-in;
+    }
+    .video-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #fff;
+        margin: 0px 0px 15px 0px;
+    }
+    .video-inner p {
+        width: 100%;
+        font-size: 12px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin: 0px auto 75px;
+    }
+    /* video css end */
+
+    /* testimonial css start */
+    .testimonial {
+        width: 100%;
+        padding: 20px 0px 30px;
+    }
+    .testimonial .testimonial-inner {
+        width: 100%;
+        padding: 10px 0px 40px;
+        text-align: center;
+    }
+    .testimonial .testimonial-inner h2 {
+        font-size: 20px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .testimonial .testimonial-inner p {
+        width: 100%;
+        font-size: 12px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px auto 0px;
+    }
+    .testimonial .testimonial-title {
+        width: 100%;
+        padding: 30px 20px;
+        border: 1px solid #E7E8ED;
+        border-radius: 10px;
+    }
+    .testimonial .testimonial-title .img-fluid {
+        width: 45px;
+        height: 45px;
+        margin: 0px 0px 25px;
+    }
+    .testimonial .testimonial-title p {
+        width: 100%;
+        height: 100px;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        margin: 0px;
+        color: #161C2D;
+    }
+    .testimonial .testimonial-title h6 {
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1.7em;
+        color: #161C2D;
+        margin: 0px 0px 0px 0px;
+    }
+    .testimonial .testimonial-title h6 span {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #161C2D;
+        margin: 0px 0px 0px 10px;
+    }
+    /* testimonial css end */
+
+    /* ready css start */
+    .ready {
+        width: 100%;
+        padding: 30px 0px 30px;
+        background: #68D585;
+        text-align: center;
+    }
+    .ready h2 {
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 1.2em;
+        margin: 0px;
+        color: #fff;
+    }
+    .ready .btn {
+        font-size: 13px;
+        font-weight: 600;
+        margin: 15px 0 10px 0px;
+        padding: 10px 15px;
+        color: #161C2D;
+        background: #fff;
+        border: 1px solid #fff;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    /* ready css end */
+
+    /* footer css start */
+    .footer {
+        width: 100%;
+        padding: 40px 0px 30px;
+        text-align: center;
+        background: #161C2D;
+    }
+    .footer .footer-inner {
+        width: 100%;
+        padding: 20px 0px 5px;
+    }
+    .footer .footer-inner .img-fluid {
+        max-width: 50%;
+        margin: 0px 0px 17px 0px;
+    }
+    .footer .footer-inner p {
+        width: 100%;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 0px 0px 15px 0px;
+    }
+    .footer .footer-inner .fa {
+        font-size: 18px;
+        color: #7D818D;
+        margin: 0px 22px 0px 0px;
+    }
+    .footer .footer-list {
+        width: 100%;
+        padding: 20px 0px 10px;
+    }
+    .footer .footer-list h6 {
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 0px 0px 8px 0px;
+    }
+    .footer .footer-list ul {
+        padding: 0px;
+        margin: 0px;
+        list-style: none;
+    }
+    .footer .footer-list ul li .listing {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+    }
+    .footer .footer-text p {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.7em;
+        color: #fff;
+        margin: 15px 0px 0px 0px;
+    }
+    /* footer css end */
+
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px){
+
+    /* header css start */
+    .header {
+        width: 100%;
+        padding: 1px 0px 0px;
+        background: url("../images/bannerbg.png")center no-repeat;
+        background-size: cover;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+        line-height: 1.6em;
+        font-weight: 600;
+        margin: 2px 0px 0px 0px;
+        text-transform: capitalize;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .header .navbar .navbar-nav .nav-item .btn {
+        font-size: 14px;
+        font-weight: 600;
+        margin: 3px 0px 0px 0px;
+        padding: 8px 18px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    /* banner css */
+    .banner {
+        width: 100%;
+        padding: 0px 0px 0px;
+    }
+    .banner .banner-inner {
+        width: 100%;
+        padding: 25px 0px 0px;
+    }
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 37px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 100%;
+        font-size: 15px;
+        line-height: 1.6em;
+        font-weight: 300;
+        text-align: justify;
+        color: #161C2D;
+        margin: 10px 0px 15px;
+    }
+    .banner .banner-inner .btn {
+        display: inline-block;
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0px 0px 10px 0px;
+        padding: 10px 20px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link {
+        display: block;
+        margin: 0px 0px 0px 0px;
+        font-size: 10px;
+        line-height: 1.7em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link .fa {
+        width: 15px;
+        height: 15px;
+        color: #161C2D;
+        font-size: 12px;
+        font-weight: 300;
+        margin: 0px 1px 0px 0px;
+        transition: 1s ease-in;
+    }
+    .banner .img-fluid {
+        max-width: 80%;
+        height: auto;
+        position: relative;
+        left: 40px;
+        top: 16px;
+    }
+
+    /* alert css */
+    .alert {
+        width: 100%;
+        margin: 0px;
+        padding: 16px 0px;
+        background: #161C2D;
+        text-align: center;
+        border-radius: 0px;
+    }
+    .alert .alert-inner p {
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        margin: 0px;
+    }
+    .alert .alert-inner p .fa {
+        width: 17px;
+        height: 17px;
+        color: #fff;
+        font-size: 7px;
+        line-height: 16px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 7px 0px 0px;
+    }
+    .alert .alert-inner p .linking {
+        font-size: 13px;
+        font-weight: 400;
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    /* header css end */
+
+    /* expert css start */
+    .expert-section {
+        width: 100%;
+        padding: 0px 0px;
+    }
+    .expert-section .expert-inner {
+        width: 100%;
+        padding: 50px 0px;
+    }
+    .expert-section .expert-inner h2 {
+        font-size: 25px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 10px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 15px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner .btn {
+        display: inline-block;
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0px 0px 0px 0px;
+        padding: 15px 30px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .expert-section .img-fluid {
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto;
+        display: block;
+        margin-bottom: 25px;
+    }
+    .expert-section .expert-right {
+        width: 100%;
+        padding: 0px 0px;
+        margin: 16px 0px 0px;
+    }
+    .expert-section .expert-right h2 {
+        font-size: 25px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 8px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 100%;
+        font-size: 15px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 25px 0px;
+    }
+    /* expert css end */
+
+    /* services css start */
+    .services {
+        width: 100%;
+        padding: 30px 0px;
+        background: #F4F7FA;
+    }
+    .services .services-inner h2 {
+        font-size: 25px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .services .services-inner p {
+        width: 100%;
+        display: inline-table;
+        text-align: center;
+        font-size: 15px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .services .card {
+        width: 100%;
+        background: transparent;
+        border: 0px;
+        padding: 5px 0px 15px;
+    }
+    .services .card .card-title {
+        font-size: 19px;
+        font-weight: 800;
+        line-height: 1.2em;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .services .card .card-body {
+        width: 100%;
+        padding: 6px 0px;
+    }
+    .services .card .card-body .card-text {
+        width: 100%;
+        font-size: 15px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 10px 0px 10px;
+    }
+    .services .card .card-body .btn {
+        font-size: 15px;
+        font-weight: 800;
+        border: 0px;
+        background: transparent;
+        color: #473BF0;
+        padding: 0px 0px;
+    }
+    /* services css end */
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px){
+
+    /* header css start */
+    .header {
+        width: 100%;
+        padding: 2px 0px 0px;
+        background: url("../images/bannerbg.png")center no-repeat;
+        background-size: cover;
+    }
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        line-height: 1.5em;
+        font-weight: 600;
+        margin: 10px 0px 0px 0px;
+        text-transform: capitalize;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .header .navbar .navbar-nav .nav-item .btn {
+        font-size: 15px;
+        font-weight: 600;
+        margin: 10px 0px 0px 0px;
+        padding: 8px 22px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    /* banner css */
+    .banner {
+        width: 100%;
+        padding: 0px 0px 0px;
+    }
+    .banner .banner-inner {
+        width: 100%;
+        padding: 85px 0px 0px;
+    }
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 37px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 100%;
+        font-size: 18px;
+        text-align: justify;
+        line-height: 1.7em;
+        font-weight: 300;
+        color: #161C2D;
+        margin: 12px 0px 20px;
+    }
+    .banner .banner-inner .btn {
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 0px 15px 0px;
+        padding: 12px 22px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link {
+        display: block;
+        margin: 0px 0px 0px 0px;
+        font-size: 12px;
+        line-height: 1.7em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link .fa {
+        width: 17px;
+        height: 17px;
+        color: #161C2D;
+        font-size: 16px;
+        font-weight: 300;
+        margin: 0px 2px 0px 0px;
+        transition: 1s ease-in;
+    }
+    .banner .img-fluid {
+        max-width: 90%;
+        height: auto;
+        position: relative;
+        left: 17%;
+        top: 8%;
+    }
+
+    /* alert css */
+    .alert {
+        width: 100%;
+        margin: 0px;
+        padding: 25px 0px;
+        background: #161C2D;
+        text-align: center;
+        border-radius: 0px;
+    }
+    .alert .alert-inner p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+        margin: 0px;
+    }
+    .alert .alert-inner p .fa {
+        width: 20px;
+        height: 20px;
+        color: #fff;
+        font-size: 8px;
+        line-height: 18px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 9px 0px 0px;
+    }
+    .alert .alert-inner p .linking {
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+        text-decoration: underline;
+    }
+    /* header css end */
+
+    /* expert css start */
+    .expert-section {
+        width: 100%;
+        padding: 25px 0px;
+    }
+    .expert-section .expert-inner {
+        width: 100%;
+        padding: 50px 0px 30px;
+    }
+    .expert-section .expert-inner h2 {
+        font-size: 32px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 18px 0px;
+    }
+    .expert-section .expert-inner .btn {
+        display: inline-block;
+        font-size: 18px;
+        font-weight: 600;
+        margin: 0px 0px 15px 0px;
+        padding: 12px 25px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .expert-section .img-fluid {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 0px auto;
+    }
+    .expert-section .expert-right {
+        width: 100%;
+        margin: 15px 0px 0px;
+    }
+    .expert-section .expert-right h2 {
+        font-size: 30px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 8px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 25px 0px;
+    }
+    /* expert css end */
+
+    /* services css start */
+    .services {
+        width: 100%;
+        padding: 45px 0px;
+        background: #F4F7FA;
+    }
+    .services .services-inner h2 {
+        font-size: 32px;
+        line-height: 1.2em;
+        font-weight: 700;
+        color: #161C2D;
+        margin: 0px 0px 15px 0px;
+    }
+    .services .services-inner p {
+        width: 100%;
+        display: inline-table;
+        text-align: center;
+        font-size: 18px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .services .card {
+        width: 100%;
+        background: transparent;
+        border: 0px;
+        padding: 20px 0px 0px;
+    }
+    .services .card .card-body {
+        width: 100%;
+        padding: 10px 0px 15px;
+    }
+    .services .card .card-body .card-text {
+        width: 100%;
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 10px 0px 15px;
+    }
+    /* services css end */
+}
+
+/* 
+  ##Device = Laptops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px){
+
+    /* header css start */
+    .header .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0px 0px 0px 25px;
+        text-transform: capitalize;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .header .navbar .navbar-nav .nav-item .btn {
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 0px 0px 20px;
+        padding: 9px 23px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+
+    /* banner css */
+    .banner {
+        width: 100%;
+        padding: 40px 0px 0px;
+    }
+    .banner .banner-inner {
+        width: 100%;
+        padding: 60px 0px 0px;
+    }
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 47px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 300;
+        color: #161C2D;
+        margin: 14px 0px 23px;
+    }
+    .banner .banner-inner .btn {
+        display: inline-block;
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0px 0px 18px 0px;
+        padding: 13px 23px;
+        color: #fff;
+        background: #473BF0;
+        border: 1px solid #473BF0;
+        border-radius: 8px;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link {
+        display: block;
+        margin: 0px 0px 0px 0px;
+        font-size: 12px;
+        line-height: 1.7em;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #161C2D;
+        transition: 1s ease-in;
+    }
+    .banner .banner-inner .link .fa {
+        width: 17px;
+        height: 17px;
+        color: #161C2D;
+        font-size: 16px;
+        font-weight: 300;
+        margin: 0px 2px 0px 0px;
+        transition: 1s ease-in;
+    }
+    .banner .img-fluid {
+        max-width: 100%;
+        height: auto;
+        position: relative;
+        left: 7%;
+    }
+
+    /* alert css */
+    .alert {
+        width: 100%;
+        margin: 0px;
+        padding: 26px 0px;
+        background: #161C2D;
+        text-align: center;
+        border-radius: 0px;
+    }
+    .alert .alert-inner p {
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+        margin: 0px;
+    }
+    .alert .alert-inner p .fa {
+        width: 20px;
+        height: 20px;
+        color: #fff;
+        font-size: 9px;
+        line-height: 20px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 10px 0px 0px;
+    }
+    .alert .alert-inner p .linking {
+        font-size: 16px;
+        font-weight: 400;
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    /* header css end */
+
+    /* expert css start */
+     .expert-section {
+        width: 100%;
+        padding: 70px 0px;
+    }
+    .expert-section .expert-inner {
+        width: 100%;
+        padding: 65px 0px;
+    }.expert-section .expert-inner h2 {
+        font-size: 31px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 18px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .expert-section .expert-inner p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .expert-section .expert-right h2 {
+        font-size: 31px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+        margin: 0px 0px 9px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 25px 0px;
+    }
+    /* expert css end */
+
+    /* services css start */
+    .services {
+        width: 100%;
+        padding: 55px 0px;
+        background: #F4F7FA;
+    }
+    .services .services-inner p {
+        width: 100%;
+        display: inline-table;
+        text-align: center;
+        font-size: 19px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 40px 0px;
+    }
+    .services .card .card-body .card-text {
+        width: 100%;
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 10px 0px 15px;
+    }
+    /* services css end */
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to 1399px
+*/
+
+@media (min-width: 1281px) and (max-width: 1399px){
+  
+    /* banner css start */
+    .banner .banner-inner h1 {
+        width: 100%;
+        font-size: 48px;
+        line-height: 1.2em;
+        font-weight: 900;
+        color: #161C2D;
+    }
+    .banner .banner-inner p {
+        width: 92%;
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 300;
+        color: #161C2D;
+        margin: 15px 0px 25px;
+    }
+    /* banner css end */
+
+    /* alert css start */
+    .alert .alert-inner p .fa {
+        width: 21px;
+        height: 21px;
+        color: #fff;
+        font-size: 10px;
+        line-height: 19px;
+        text-align: center;
+        border: 1px solid #fff;
+        border-radius: 100%;
+        margin: 0px 10px 0px 0px;
+    }
+    /* alert css end */
+
+    /* expert css start */
+    .expert-section .expert-inner p {
+        width: 87%;
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 20px 0px;
+    }
+    .expert-section .expert-right p {
+        width: 85%;
+        font-size: 19px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 30px 0px;
+    }
+    /* expert css end */
+
+    /* services css start */
+    .services .services-inner p {
+        width: 50%;
+        display: inline-table;
+        text-align: center;
+        font-size: 19px;
+        line-height: 1.6em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 0px 0px 40px 0px;
+    }
+    .services .card .card-body .card-text {
+        width: 93%;
+        font-size: 17px;
+        line-height: 1.7em;
+        font-weight: 400;
+        color: #161C2D;
+        margin: 10px 0px 15px;
+    }
+    /* services css end */
+    
+  }
